@@ -13,9 +13,6 @@ repos:
         args:
           - --args=-platform=windows_amd64
           - --args=-platform=darwin_amd64
-    
-      #- name: Terraform Scan with 'tfsec'
-      #  id: terraform_tfsec
 
       - name: Terraform Documentation
         id: terraform_docs
