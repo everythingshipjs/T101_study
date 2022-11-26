@@ -1,6 +1,5 @@
 variable "create_eip" {
   description = "create eip if set to true"
-  default     = true
 }
 
 resource "aws_eip" "this" {

@@ -27,7 +27,7 @@ No modules.
 
 | Name | Description | Type | Default | Required |
 |------|-------------|------|---------|:--------:|
-| <a name="input_create_eip"></a> [create\_eip](#input\_create\_eip) | create eip if set to true | `bool` | `true` | no |
+| <a name="input_create_eip"></a> [create\_eip](#input\_create\_eip) | create eip if set to true | `any` | n/a | yes |
 
 ## Outputs
 
